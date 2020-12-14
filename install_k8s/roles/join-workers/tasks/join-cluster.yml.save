@@ -1,0 +1,4 @@
+- name:
+  debug:
+    m
+sg: "[WORKER] K8S_TOKEN_HOLDER - O token eh {{ hostvars[" K8S_TOKEN_HOLDER"]["token"] }}"
